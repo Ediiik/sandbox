@@ -2,6 +2,10 @@ body {
 	color: white;
 	background: blue;
 }
+header {
+	color: white;
+	background: black;
+}
 footer {
 	color: white;
 	background: black;

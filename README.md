@@ -1,3 +1,3 @@
 # Sandbox
 
-A repo for experiments
+A repo for GIT experiments
